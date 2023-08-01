@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "EBAXCNFlN1KYnfRACf8IPGHza4TGyz7ii/vuBphYVWw=",
+  "Source": "DemoAspNetAPI",
+  "BasePath": "_content/DemoAspNetAPI",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
